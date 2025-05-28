@@ -323,6 +323,29 @@ Whether you've found an incredible model that won't work in GTA:V, have a wild c
 
 </div>
 
+<details>
+<summary>🤖 <b>Plot Twist Alert!</b> (Click to reveal the truth)</summary>
+
+<div style="background: linear-gradient(135deg, #fef3c7, #f59e0b); border-radius: 15px; padding: 25px; margin: 20px 0; border-left: 5px solid #d97706;">
+
+### 😅 **Confession Time**
+
+*Okay, okay... I have to be honest with you...*
+
+This entire README was actually crafted by an AI because, well... **I was too lazy to write it myself**. 🤷‍♂️
+
+But hey! The AI did a pretty good job, right? It captured my personality, my work, and made everything look fancy with gradients and animations. Sometimes being lazy leads to better results than doing it manually! 
+
+**The models, the skills, the passion?** ✅ 100% real  
+**The hours spent optimizing assets?** ✅ 100% real  
+**This beautiful README?** ❌ 100% AI magic because I wanted to spend my time creating cool stuff instead of writing about it
+
+*No humans were harmed in the making of this README. Only one developer's procrastination was involved.* 😂
+
+</div>
+
+</details>
+
 </div>
 
 <!-- Footer wave -->
