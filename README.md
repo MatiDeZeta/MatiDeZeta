@@ -1,86 +1,88 @@
 <div align="center">
 
-# 👋 Hey there! I'm Matías (MatiDZ)
+<!-- Header with animated gradient background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MatiDZ&fontSize=80&fontColor=fff&animation=twinkling"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=GTA%3AV+Asset+Wizard+%26+Performance+Guru;3D+Content+Adaptation+Specialist;Digital+Craftsman+from+Argentina+🇆🇷;Where+Quality+Meets+Optimization)
+# ✨ Welcome to the Workshop ✨
+### *Where impossible 3D dreams become GTA:V reality*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:000000&height=120&section=header&text=&fontSize=0"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🇦🇷 Welcome to My Digital Workshop
-
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                    🎯 CONTENT ADAPTATION SPECIALIST               ║
-║                                                                  ║
-║  🚀 My Mission: Making premium 3D content shine in GTA:V        ║
-║  📍 Home Base: Buenos Aires, Argentina                          ║
-║  💼 What I Do: Adaptation • Optimization • Magic               ║
-║  ⚡ My Superpower: Turning great models into GTA:V gold        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-Hey! I'm that guy who takes amazing 3D models from places like Sims 4, premium marketplaces, and other cool sources, then works some magic to make them run perfectly in GTA:V. Think of me as a translator between "looks incredible" and "actually works on your server without melting it." 
-
-It's not just about making things work - it's about making them work *beautifully*.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=🎨+Turning+Premium+Assets+into+GTA+Magic;⚡+Performance+Wizard+%26+Quality+Obsessed;🇦🇷+Digital+Craftsman+from+Buenos+Aires;🚀+Where+Creativity+Meets+Optimization)
 
 <br>
 
-[![Discord Server](https://img.shields.io/badge/💬%20Join%20Our%20Community-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000&labelColor=333333)](https://discord.gg/P7BwRvCcRs)
-[![Portfolio](https://img.shields.io/badge/🌐%20Check%20My%20Work-000000?style=for-the-badge&logo=globe&logoColor=FFFFFF&labelColor=666666)](https://matidz.es)
-[![GTA5Mods](https://img.shields.io/badge/📦%20Browse%20My%20Mods-FFFFFF?style=for-the-badge&logo=steam&logoColor=000000&labelColor=333333)](https://www.gta5-mods.com/users/MatiDZ)
-[![Contact](https://img.shields.io/badge/📧%20Let's%20Talk-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=666666)](mailto:support@matidzforge.shop)
+<!-- Elegant introduction card -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
+
+### 👋 Hey, I'm Matías!
+
+*The guy who makes your wildest 3D dreams work flawlessly in GTA:V*
+
+I take stunning models from games like Sims 4, premium marketplaces, and other amazing sources, then transform them into optimized GTA:V gold. Think of me as your personal 3D translator – turning "wow, that looks incredible" into "wow, that actually works perfectly!"
+
+**🎯 My Mission:** Making premium content accessible, beautiful, and server-friendly
 
 </div>
 
----
+<!-- Social links with custom styling -->
+<div style="margin: 30px 0;">
+
+[![Discord](https://img.shields.io/badge/💬_Join_Our_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4f46e5)](https://discord.gg/P7BwRvCcRs)
+[![Portfolio](https://img.shields.io/badge/🌐_See_My_Work-6366F1?style=for-the-badge&logo=safari&logoColor=white&labelColor=4f46e5)](https://matidz.es)
+[![Mods](https://img.shields.io/badge/📦_Browse_Creations-8B5CF6?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=4f46e5)](https://www.gta5-mods.com/users/MatiDZ)
+[![Email](https://img.shields.io/badge/📧_Let's_Chat-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4f46e5)](mailto:support@matidzforge.shop)
+
+</div>
+
+<!-- Wave separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=100"/>
+
+## 🎨 The Magic Happens Here
 
 <div align="center">
 
-## 🛠️ What I Actually Do (The Fun Stuff)
-
-<table width="100%">
+<!-- Service cards with modern design -->
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td width="25%" align="center">
+<td align="center" style="padding: 20px; background: linear-gradient(145deg, #f8fafc, #e2e8f0); border-radius: 15px; margin: 10px; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.1);">
 
-**🎨 Asset Wizardry**  
-I take models from Sims 4,  
-premium sites, and other games,  
-then make them perfect for GTA:V  
-*(No magic wands, just skill)*
+### 🎨 **Asset Transformation**
+*From any game to GTA perfection*
 
-</td>
-<td width="25%" align="center">
+Taking gorgeous models from Sims 4, premium marketplaces, and beyond – then crafting them into GTA:V masterpieces that look stunning and run smooth as butter.
 
-**⚡ Performance Alchemy**  
-Cutting poly counts, creating LODs,  
-optimizing textures while keeping  
-them gorgeous. Your server will  
-thank me later!
+**✨ The result?** Pure magic in your server.
 
 </td>
-<td width="25%" align="center">
+<td align="center" style="padding: 20px; background: linear-gradient(145deg, #fef3c7, #fbbf24); border-radius: 15px; margin: 10px; box-shadow: 0 8px 32px rgba(251, 191, 36, 0.1);">
 
-**🖼️ Texture Artistry**  
-Custom variants, material upgrades,  
-and unique color schemes that  
-make your content stand out  
-from the crowd
+### ⚡ **Performance Wizardry**
+*Beautiful AND fast*
+
+Smart optimization that keeps the beauty while making your server happy. Lower poly counts, intelligent LODs, compressed textures – all the behind-the-scenes magic.
+
+**✨ The result?** No more lag, just awesomeness.
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td align="center" style="padding: 20px; background: linear-gradient(145deg, #ddd6fe, #8b5cf6); border-radius: 15px; margin: 10px; box-shadow: 0 8px 32px rgba(139, 92, 246, 0.1);">
 
-**📦 Complete Solutions**  
-Everything bundled, tested,  
-and ready to drop into your  
-server. No headaches,  
-just results
+### 🎭 **Custom Creations**
+*Your wild ideas, brought to life*
+
+Got a crazy vision? A specific need? A "wouldn't it be cool if..." moment? I love turning impossible ideas into reality. Custom textures, unique variants, one-of-a-kind pieces.
+
+**✨ The result?** Content nobody else has.
+
+</td>
+<td align="center" style="padding: 20px; background: linear-gradient(145deg, #fce7f3, #ec4899); border-radius: 15px; margin: 10px; box-shadow: 0 8px 32px rgba(236, 72, 153, 0.1);">
+
+### 📦 **Ready-to-Use Solutions**
+*Plug and play perfection*
+
+Everything comes complete, tested, and ready to drop into your server. No headaches, no "why doesn't this work?" moments – just pure, beautiful content that works instantly.
+
+**✨ The result?** Happy admins, happy players.
 
 </td>
 </tr>
@@ -88,171 +90,240 @@ just results
 
 </div>
 
----
+<!-- Wave separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=20,6,11&height=100"/>
+
+## 🏆 What I Love Creating
 
 <div align="center">
 
-## 🎯 My Specialty Areas
-
-<table width="100%">
+<!-- Specialty areas with icons -->
+<table style="border: none;">
 <tr>
-<td width="33%" align="center">
+<td align="center" style="padding: 25px;">
 
-### 🪖 **Military & LEA Gear**
-Tactical gear that actually looks tactical  
-**Helmets • Vests • Uniforms**
+### 🪖 **Tactical & Military**
+*Professional grade gear that looks the part*
 
-</td>
-<td width="33%" align="center">
+From realistic helmets to tactical vests, creating gear that makes your LEA characters look like the professionals they are. Every detail matters.
 
-### 👔 **Civilian Fashion**
-Fashion from various games & sources  
-**Casual • Formal • Seasonal**
+**Popular:** FAST Helmets • Tactical Belts • Military Uniforms
 
 </td>
-<td width="33%" align="center">
+<td align="center" style="padding: 25px;">
 
-### 🎭 **Custom Projects**
-Your crazy ideas brought to life  
-**Commissions • Unique Pieces**
+### 👔 **Fashion & Style**
+*Clothing that turns heads*
+
+Bringing the latest fashion from various games and sources into GTA:V. From casual streetwear to formal attire – style that works.
+
+**Popular:** Seasonal Collections • Designer Pieces • Everyday Wear
+
+</td>
+<td align="center" style="padding: 25px;">
+
+### 🎨 **Custom Dreams**
+*Your imagination, my craftsmanship*
+
+The really fun stuff – unique commissions, wild ideas, and "has anyone ever tried..." projects. This is where creativity meets challenge.
+
+**Popular:** One-off Pieces • Server Branding • Themed Collections
 
 </td>
 </tr>
 </table>
 
-<br>
+<!-- Process flow -->
+<div style="background: linear-gradient(135deg, #1e293b 0%, #334155 100%); border-radius: 20px; padding: 30px; margin: 30px 0; color: white;">
+
+### 🔄 **How the Magic Happens**
 
 ```
-🔄 HOW THE MAGIC HAPPENS
-Find Amazing Content → Legal Check → GTA:V Transformation → Performance Tuning → Quality Testing → Happy Customers
+🔍 Discovery → 📋 Planning → 🎨 Creation → ⚡ Optimization → 🧪 Testing → 🚀 Delivery → 😊 Happy You
 ```
+
+*Every piece goes through this journey to ensure it's not just beautiful, but perfect for your needs.*
 
 </div>
 
----
+<!-- Wave separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=11,20,6&height=100"/>
+
+## 📊 The Numbers (Because They're Pretty Cool)
 
 <div align="center">
 
-## 📊 My GitHub Journey
+<!-- GitHub stats with modern styling -->
+<div style="margin: 20px 0;">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatiDeZeta&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiDeZeta&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiDeZeta&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=CCCCCC&currStreakLabel=CCCCCC&sideNums=CCCCCC&currStreakNum=FFFFFF&dates=999999&sideLabels=999999"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatiDeZeta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiDeZeta&layout=compact&theme=tokyonight&hide_border=true&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiDeZeta&theme=tokyonight&hide_border=true&background=30,0d1117,161b22&stroke=58a6ff&ring=f85149&fire=f85149&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=8b949e&sideLabels=8b949e"/>
 
-<div align="center">
+<!-- Achievement cards -->
+<div style="margin: 40px 0;">
 
-## 🌟 Some Cool Stuff I've Done
-
-<table width="100%">
+<table style="border: none;">
 <tr>
-<td width="50%" align="center">
+<td align="center" style="padding: 20px; background: linear-gradient(145deg, #0f172a, #1e293b); border-radius: 15px; margin: 10px; color: white;">
 
-### 🎖️ **Opscore Fast SFHC Collection**
-```
-📥 Started with: Premium military asset packs
-🔧 Made it work: Full M/F character rigging
-🎨 Made it pretty: Multiple texture variants
-⚡ Made it fast: Sub-400 poly optimization
-🚀 End result: Tactical gear that servers love
-```
+### 🎯 **25+ Premium Adaptations**
+*Quality pieces delivered and loved*
 
 </td>
-<td width="50%" align="center">
+<td align="center" style="padding: 20px; background: linear-gradient(145deg, #0f172a, #1e293b); border-radius: 15px; margin: 10px; color: white;">
 
-### ⚔️ **Tactical Belt System Series**
-```
-📥 Started with: Military equipment marketplace
-🔧 Made it work: MP Male skeleton compatibility
-🎨 Made it modular: Attachment system
-⚡ Made it smooth: Multiplayer optimized
-🚀 End result: Professional LEA equipment
-```
+### 🎮 **12+ Active Servers**
+*Running my content right now*
+
+</td>
+<td align="center" style="padding: 20px; background: linear-gradient(145deg, #0f172a, #1e293b); border-radius: 15px; margin: 10px; color: white;">
+
+### 📦 **3000+ Downloads**
+*And counting every day*
+
+</td>
+<td align="center" style="padding: 20px; background: linear-gradient(145deg, #0f172a, #1e293b); border-radius: 15px; margin: 10px; color: white;">
+
+### 🔥 **600+ Community Members**
+*Amazing creative minds*
 
 </td>
 </tr>
 </table>
 
+</div>
+
+</div>
+
+<!-- Showcase section -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 30px 0; color: white;">
+
+### 🌟 **Recent Masterpieces**
+
+<table style="border: none;">
+<tr>
+<td align="center" style="padding: 20px;">
+
+#### 🎖️ **FAST Helmet Collection**
+*From premium military assets to GTA perfection*
+
+**The Journey:** Premium asset pack → Full rigging for both characters → Multiple texture variants → Optimized to under 400 polys
+
+**The Result:** Tactical gear that looks professional and runs beautifully on any server
+
+</td>
+<td align="center" style="padding: 20px;">
+
+#### ⚔️ **Tactical Belt System**
+*Modular military equipment done right*
+
+**The Journey:** Military marketplace find → MP Male skeleton compatibility → Modular attachment system → Multiplayer optimization
+
+**The Result:** Professional LEA equipment that's both functional and stunning
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</div>
+
+<!-- Wave separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=100"/>
+
+## 🛠️ The Creative Arsenal
+
+<div align="center">
+
+### **3D Creation & Magic**
+[![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)](https://blender.org)
+[![3ds Max](https://img.shields.io/badge/3ds%20Max-00A6D6?style=for-the-badge&logo=autodesk&logoColor=white)](https://autodesk.com)
+[![Substance](https://img.shields.io/badge/Substance%20Suite-FF6C37?style=for-the-badge&logo=adobe&logoColor=white)](https://substance3d.adobe.com)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://adobe.com)
+
+### **GTA:V Specialized Tools**
+[![OpenIV](https://img.shields.io/badge/OpenIV-4CAF50?style=for-the-badge&logoColor=white)](https://openiv.com)
+[![CodeWalker](https://img.shields.io/badge/CodeWalker-9C27B0?style=for-the-badge&logoColor=white)](https://github.com/dexyfex/CodeWalker)
+[![Sollumz](https://img.shields.io/badge/Sollumz-FF5722?style=for-the-badge&logoColor=white)](https://github.com/Skylumz/Sollumz)
+[![ZModeler](https://img.shields.io/badge/ZModeler-2196F3?style=for-the-badge&logoColor=white)](https://zmodeler3.com)
+
 <br>
 
-**📈 The Numbers (Because They're Pretty Cool):**
-```
-🎯 25+ Premium Adaptations Delivered  │  🎮 12+ Servers Running My Content
-⏱️ 3+ Years of Trial & Error (Mostly Success!)  │  📦 3000+ Happy Downloads
-🌟 Growing Network of Content Partners  │  🔥 Community of 600+ Creative Minds
-```
+*Each tool serves a purpose, each step matters. From initial concept to final delivery, every piece of software helps create something amazing.*
+
+</div>
+
+</div>
+
+<!-- Wave separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=20,6,11&height=100"/>
+
+## 💫 Let's Create Something Amazing Together
+
+<div align="center">
+
+<!-- Call to action with gradient background -->
+<div style="background: linear-gradient(135deg, #1e293b 0%, #334155 100%); border-radius: 20px; padding: 40px; margin: 30px 0; color: white;">
+
+### 🚀 **Ready to Transform Your Server?**
+
+Whether you've found an incredible model that won't work in GTA:V, have a wild creative vision, or need content that stands out from the crowd – I'm here to make it happen.
+
+**What makes working with me different?**
+- 🎯 **Quality obsessed** – Every detail matters
+- ⚡ **Performance focused** – Beautiful AND fast
+- 🤝 **Actually fun to work with** – No ego, just passion
+- 📦 **Complete solutions** – Ready to use, no headaches
+
+<br>
+
+*From Buenos Aires to your server, let's create something incredible.*
+
+</div>
+
+### 🌟 **Connect With Me**
+
+<div style="margin: 30px 0;">
+
+[![Discord Community](https://img.shields.io/badge/💬_Join_The_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4f46e5)](https://discord.gg/P7BwRvCcRs)
+[![Direct Chat](https://img.shields.io/badge/💬_Direct_Message-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=4f46e5)](https://discord.com/users/550033772280807453)
+
+[![Business Email](https://img.shields.io/badge/📧_Business_Inquiries-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4f46e5)](mailto:support@matidzforge.shop)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white&labelColor=4f46e5)](https://matidz.es)
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🛠️ My Arsenal of Tools
-
-### **3D Creation & Wizardry**
-[![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=FFFFFF&labelColor=333333)](https://blender.org)
-[![3ds Max](https://img.shields.io/badge/3ds%20Max-FFFFFF?style=for-the-badge&logo=autodesk&logoColor=000000&labelColor=666666)](https://autodesk.com)
-[![Substance](https://img.shields.io/badge/Substance%20Suite-000000?style=for-the-badge&logo=adobe&logoColor=FFFFFF&labelColor=333333)](https://substance3d.adobe.com)
-[![Photoshop](https://img.shields.io/badge/Photoshop-FFFFFF?style=for-the-badge&logo=adobephotoshop&logoColor=000000&labelColor=666666)](https://adobe.com)
-
-### **GTA:V Specialized Gear**
-[![OpenIV](https://img.shields.io/badge/OpenIV-000000?style=for-the-badge&logoColor=FFFFFF&labelColor=333333)](https://openiv.com)
-[![CodeWalker](https://img.shields.io/badge/CodeWalker-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=666666)](https://github.com/dexyfex/CodeWalker)
-[![Sollumz](https://img.shields.io/badge/Sollumz-000000?style=for-the-badge&logoColor=FFFFFF&labelColor=333333)](https://github.com/Skylumz/Sollumz)
-[![ZModeler](https://img.shields.io/badge/ZModeler-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=666666)](https://zmodeler3.com)
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 Let's Build Something Amazing
-
-**Got a server that needs that special something?**  
-**Found an amazing model that just won't work in GTA:V?**  
-**Have a wild idea that nobody's done before?**
-
-I'm your guy! I don't just adapt content - I solve problems, optimize performance, and make sure your vision becomes reality without breaking your server or your budget.
-
-<br>
-
-### 🤝 **Let's Connect**
-
-[![Discord Community](https://img.shields.io/badge/💬%20Join%20Our%20Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=333333)](https://discord.gg/P7BwRvCcRs)
-[![Direct Message](https://img.shields.io/badge/💬%20DM%20Me%20Directly-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000&labelColor=666666)](https://discord.com/users/550033772280807453)
-
-[![Professional Email](https://img.shields.io/badge/📧%20Business%20Inquiries-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=333333)](mailto:support@matidzforge.shop)
-[![Portfolio](https://img.shields.io/badge/🌐%20See%20My%20Portfolio-FFFFFF?style=for-the-badge&logo=globe&logoColor=000000&labelColor=666666)](https://matidz.es)
-
-<br>
+<div style="margin: 40px 0; padding: 20px; background: linear-gradient(135deg, #f8fafc, #e2e8f0); border-radius: 15px;">
 
 > **💡 "Where premium 3D content meets GTA:V perfection"**  
-> *Professional adaptation • Obsessed with quality • Committed to performance • Actually fun to work with*
+> 
+> *Professional quality • Performance optimized • Creatively driven • Community focused*
 
 </div>
 
----
+<!-- Profile stats -->
+![Profile Views](https://komarev.com/ghpvc/?username=MatiDeZeta&color=6366F1&style=for-the-badge&label=Workshop+Visitors&labelColor=4f46e5)
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:000000&height=120&section=footer&text=&fontSize=0"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MatiDeZeta&color=FFFFFF&style=for-the-badge&label=Profile+Views&labelColor=000000)
-
-**🇦🇷 Crafted with passion (and probably too much coffee) from Buenos Aires, Argentina**
+**🇦🇷 Crafted with passion from Buenos Aires, Argentina**
 
 ---
 
-⭐ **If my work makes you smile, consider starring my repositories!** ⭐
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; margin: 20px 0; color: white;">
 
-**Thanks for stopping by my digital workshop!** 🛠️✨
+⭐ **If my work inspires you, consider starring my repositories!** ⭐
+
+*Thanks for visiting my digital workshop – where impossible becomes inevitable!* 🚀✨
 
 </div>
+
+</div>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer"/>
