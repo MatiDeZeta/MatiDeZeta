@@ -258,174 +258,132 @@ The really fun stuff – unique commissions, wild ideas, and "has anyone ever tr
 
 </div>
 
-<!-- Snake Game Section -->
+<!-- Interactive Before/After Showcase -->
 <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 20px; padding: 30px; margin: 30px 0; color: white;">
 
-### 🐍 **Bonus: Snake Game!**
-*Because why not have some fun while you're here?*
+### 🎬 **The Transformation Magic**
+*See the incredible before & after journey*
 
 <div align="center">
 
-**Use WASD or Arrow Keys to play!**
+<table style="border: none;">
+<tr>
+<td align="center" style="padding: 20px;">
 
-<div id="gameContainer" style="margin: 20px 0;">
-<canvas id="snakeGame" width="400" height="400" style="border: 2px solid #58a6ff; border-radius: 10px; background: #000;"></canvas>
+#### 🚀 **Interactive Portfolio Slider**
+
+<div style="position: relative; width: 100%; max-width: 600px; margin: 20px auto; background: #000; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+
+<!-- Placeholder for portfolio images -->
+<div id="portfolioSlider" style="height: 300px; background: linear-gradient(45deg, #667eea, #764ba2); display: flex; align-items: center; justify-content: center; position: relative;">
+<div style="text-align: center; color: white;">
+<h3>🎨 Portfolio Showcase</h3>
+<p>Premium Asset Transformations</p>
+<div style="margin: 20px 0;">
+<div style="display: inline-block; padding: 8px 16px; background: rgba(255,255,255,0.2); border-radius: 20px; margin: 5px;">FAST Helmet Series</div>
+<div style="display: inline-block; padding: 8px 16px; background: rgba(255,255,255,0.2); border-radius: 20px; margin: 5px;">Tactical Gear Collection</div>
+<div style="display: inline-block; padding: 8px 16px; background: rgba(255,255,255,0.2); border-radius: 20px; margin: 5px;">Custom Commissions</div>
+</div>
+</div>
 </div>
 
-<div style="margin: 10px 0;">
-<button onclick="startGame()" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; padding: 10px 20px; border-radius: 25px; cursor: pointer; font-weight: bold; margin: 5px;">🎮 Start Game</button>
-<button onclick="resetGame()" style="background: linear-gradient(135deg, #ec4899 0%, #be185d 100%); color: white; border: none; padding: 10px 20px; border-radius: 25px; cursor: pointer; font-weight: bold; margin: 5px;">🔄 Reset</button>
+<!-- Navigation dots -->
+<div style="text-align: center; margin: 15px 0;">
+<span style="display: inline-block; width: 12px; height: 12px; background: #58a6ff; border-radius: 50%; margin: 0 5px; cursor: pointer;" onclick="showSlide(1)"></span>
+<span style="display: inline-block; width: 12px; height: 12px; background: rgba(88, 166, 255, 0.3); border-radius: 50%; margin: 0 5px; cursor: pointer;" onclick="showSlide(2)"></span>
+<span style="display: inline-block; width: 12px; height: 12px; background: rgba(88, 166, 255, 0.3); border-radius: 50%; margin: 0 5px; cursor: pointer;" onclick="showSlide(3)"></span>
 </div>
 
-<div id="score" style="font-size: 18px; font-weight: bold; color: #58a6ff;">Score: 0</div>
-<div id="gameStatus" style="font-size: 14px; color: #8b949e; margin-top: 10px;">Press Start to begin!</div>
+<div style="text-align: center; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; padding: 12px 25px; border-radius: 25px; cursor: pointer; font-weight: bold; margin: 5px; display: inline-block;">
+📸 View Full Portfolio
+</div>
+</div>
 
 </div>
 
-<script>
-const canvas = document.getElementById('snakeGame');
-const ctx = canvas.getContext('2d');
-const scoreElement = document.getElementById('score');
-const statusElement = document.getElementById('gameStatus');
+</td>
+</tr>
+</table>
 
-const gridSize = 20;
-const tileCount = canvas.width / gridSize;
+</div>
 
-let snake = [
-    {x: 10, y: 10}
-];
-let food = {};
-let dx = 0;
-let dy = 0;
-let score = 0;
-let gameRunning = false;
+<!-- Process Animation -->
+<div style="margin: 30px 0; padding: 25px; background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); border-radius: 15px;">
 
-function randomFood() {
-    food = {
-        x: Math.floor(Math.random() * tileCount),
-        y: Math.floor(Math.random() * tileCount)
-    };
+### ⚡ **The Transformation Process**
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0; flex-wrap: wrap;">
+
+<div style="text-align: center; margin: 10px; animation: pulse 2s infinite;">
+<div style="width: 60px; height: 60px; background: #f85149; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; font-size: 24px;">📥</div>
+<div style="font-size: 14px;">Original Asset</div>
+</div>
+
+<div style="color: #58a6ff; font-size: 24px; margin: 0 10px;">→</div>
+
+<div style="text-align: center; margin: 10px; animation: pulse 2s infinite 0.5s;">
+<div style="width: 60px; height: 60px; background: #fbbf24; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; font-size: 24px;">🔧</div>
+<div style="font-size: 14px;">Optimization</div>
+</div>
+
+<div style="color: #58a6ff; font-size: 24px; margin: 0 10px;">→</div>
+
+<div style="text-align: center; margin: 10px; animation: pulse 2s infinite 1s;">
+<div style="width: 60px; height: 60px; background: #8b5cf6; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; font-size: 24px;">🎨</div>
+<div style="font-size: 14px;">Enhancement</div>
+</div>
+
+<div style="color: #58a6ff; font-size: 24px; margin: 0 10px;">→</div>
+
+<div style="text-align: center; margin: 10px; animation: pulse 2s infinite 1.5s;">
+<div style="width: 60px; height: 60px; background: #10b981; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; font-size: 24px;">✨</div>
+<div style="font-size: 14px;">GTA:V Magic</div>
+</div>
+
+</div>
+
+<style>
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.1); opacity: 1; }
 }
+</style>
 
-function drawGame() {
-    // Clear canvas
-    ctx.fillStyle = '#000';
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
-    
-    // Draw snake
-    ctx.fillStyle = '#58a6ff';
-    for (let segment of snake) {
-        ctx.fillRect(segment.x * gridSize, segment.y * gridSize, gridSize - 2, gridSize - 2);
-    }
-    
-    // Draw food
-    ctx.fillStyle = '#f85149';
-    ctx.fillRect(food.x * gridSize, food.y * gridSize, gridSize - 2, gridSize - 2);
-}
+</div>
 
-function moveSnake() {
-    if (!gameRunning) return;
-    
-    const head = {x: snake[0].x + dx, y: snake[0].y + dy};
-    
-    // Check wall collision
-    if (head.x < 0 || head.x >= tileCount || head.y < 0 || head.y >= tileCount) {
-        gameOver();
-        return;
-    }
-    
-    // Check self collision
-    for (let segment of snake) {
-        if (head.x === segment.x && head.y === segment.y) {
-            gameOver();
-            return;
-        }
-    }
-    
-    snake.unshift(head);
-    
-    // Check food collision
-    if (head.x === food.x && head.y === food.y) {
-        score += 10;
-        scoreElement.textContent = `Score: ${score}`;
-        randomFood();
-    } else {
-        snake.pop();
-    }
-}
+<!-- Live Stats Counter -->
+<div style="margin: 30px 0; text-align: center;">
 
-function gameOver() {
-    gameRunning = false;
-    statusElement.textContent = `Game Over! Final Score: ${score}`;
-    statusElement.style.color = '#f85149';
-}
+### 📈 **Live Workshop Stats**
 
-function startGame() {
-    if (gameRunning) return;
-    
-    snake = [{x: 10, y: 10}];
-    dx = 0;
-    dy = 0;
-    score = 0;
-    gameRunning = true;
-    scoreElement.textContent = 'Score: 0';
-    statusElement.textContent = 'Use WASD or Arrow Keys to move!';
-    statusElement.style.color = '#8b949e';
-    randomFood();
-    gameLoop();
-}
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
 
-function resetGame() {
-    gameRunning = false;
-    snake = [{x: 10, y: 10}];
-    dx = 0;
-    dy = 0;
-    score = 0;
-    scoreElement.textContent = 'Score: 0';
-    statusElement.textContent = 'Press Start to begin!';
-    statusElement.style.color = '#8b949e';
-    drawGame();
-}
+<div style="background: rgba(88, 166, 255, 0.1); border: 2px solid #58a6ff; border-radius: 15px; padding: 20px; margin: 10px; min-width: 120px;">
+<div id="projectCounter" style="font-size: 28px; font-weight: bold; color: #58a6ff;">25+</div>
+<div style="font-size: 14px; color: #8b949e;">Projects Completed</div>
+</div>
 
-function gameLoop() {
-    if (!gameRunning) return;
-    
-    moveSnake();
-    drawGame();
-    
-    setTimeout(gameLoop, 150);
-}
+<div style="background: rgba(248, 81, 73, 0.1); border: 2px solid #f85149; border-radius: 15px; padding: 20px; margin: 10px; min-width: 120px;">
+<div id="downloadCounter" style="font-size: 28px; font-weight: bold; color: #f85149;">3000+</div>
+<div style="font-size: 14px; color: #8b949e;">Happy Downloads</div>
+</div>
 
-// Controls
-document.addEventListener('keydown', (e) => {
-    if (!gameRunning) return;
-    
-    switch(e.key.toLowerCase()) {
-        case 'w':
-        case 'arrowup':
-            if (dy !== 1) { dx = 0; dy = -1; }
-            break;
-        case 's':
-        case 'arrowdown':
-            if (dy !== -1) { dx = 0; dy = 1; }
-            break;
-        case 'a':
-        case 'arrowleft':
-            if (dx !== 1) { dx = -1; dy = 0; }
-            break;
-        case 'd':
-        case 'arrowright':
-            if (dx !== -1) { dx = 1; dy = 0; }
-            break;
-    }
-});
+<div style="background: rgba(16, 185, 129, 0.1); border: 2px solid #10b981; border-radius: 15px; padding: 20px; margin: 10px; min-width: 120px;">
+<div id="serverCounter" style="font-size: 28px; font-weight: bold; color: #10b981;">12+</div>
+<div style="font-size: 14px; color: #8b949e;">Active Servers</div>
+</div>
 
-// Initialize
-randomFood();
-drawGame();
-</script>
+<div style="background: rgba(139, 92, 246, 0.1); border: 2px solid #8b5cf6; border-radius: 15px; padding: 20px; margin: 10px; min-width: 120px;">
+<div id="communityCounter" style="font-size: 28px; font-weight: bold; color: #8b5cf6;">600+</div>
+<div style="font-size: 14px; color: #8b949e;">Community Members</div>
+</div>
 
-*Pro tip: Beat my high score and maybe you'll get a discount on your next commission! 😉*
+</div>
+
+</div>
+
+*🔥 These numbers update in real-time... well, in my dreams they do! But they're growing every day.*
 
 </div>
 
