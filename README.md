@@ -258,6 +258,177 @@ The really fun stuff – unique commissions, wild ideas, and "has anyone ever tr
 
 </div>
 
+<!-- Snake Game Section -->
+<div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 20px; padding: 30px; margin: 30px 0; color: white;">
+
+### 🐍 **Bonus: Snake Game!**
+*Because why not have some fun while you're here?*
+
+<div align="center">
+
+**Use WASD or Arrow Keys to play!**
+
+<div id="gameContainer" style="margin: 20px 0;">
+<canvas id="snakeGame" width="400" height="400" style="border: 2px solid #58a6ff; border-radius: 10px; background: #000;"></canvas>
+</div>
+
+<div style="margin: 10px 0;">
+<button onclick="startGame()" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; padding: 10px 20px; border-radius: 25px; cursor: pointer; font-weight: bold; margin: 5px;">🎮 Start Game</button>
+<button onclick="resetGame()" style="background: linear-gradient(135deg, #ec4899 0%, #be185d 100%); color: white; border: none; padding: 10px 20px; border-radius: 25px; cursor: pointer; font-weight: bold; margin: 5px;">🔄 Reset</button>
+</div>
+
+<div id="score" style="font-size: 18px; font-weight: bold; color: #58a6ff;">Score: 0</div>
+<div id="gameStatus" style="font-size: 14px; color: #8b949e; margin-top: 10px;">Press Start to begin!</div>
+
+</div>
+
+<script>
+const canvas = document.getElementById('snakeGame');
+const ctx = canvas.getContext('2d');
+const scoreElement = document.getElementById('score');
+const statusElement = document.getElementById('gameStatus');
+
+const gridSize = 20;
+const tileCount = canvas.width / gridSize;
+
+let snake = [
+    {x: 10, y: 10}
+];
+let food = {};
+let dx = 0;
+let dy = 0;
+let score = 0;
+let gameRunning = false;
+
+function randomFood() {
+    food = {
+        x: Math.floor(Math.random() * tileCount),
+        y: Math.floor(Math.random() * tileCount)
+    };
+}
+
+function drawGame() {
+    // Clear canvas
+    ctx.fillStyle = '#000';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    
+    // Draw snake
+    ctx.fillStyle = '#58a6ff';
+    for (let segment of snake) {
+        ctx.fillRect(segment.x * gridSize, segment.y * gridSize, gridSize - 2, gridSize - 2);
+    }
+    
+    // Draw food
+    ctx.fillStyle = '#f85149';
+    ctx.fillRect(food.x * gridSize, food.y * gridSize, gridSize - 2, gridSize - 2);
+}
+
+function moveSnake() {
+    if (!gameRunning) return;
+    
+    const head = {x: snake[0].x + dx, y: snake[0].y + dy};
+    
+    // Check wall collision
+    if (head.x < 0 || head.x >= tileCount || head.y < 0 || head.y >= tileCount) {
+        gameOver();
+        return;
+    }
+    
+    // Check self collision
+    for (let segment of snake) {
+        if (head.x === segment.x && head.y === segment.y) {
+            gameOver();
+            return;
+        }
+    }
+    
+    snake.unshift(head);
+    
+    // Check food collision
+    if (head.x === food.x && head.y === food.y) {
+        score += 10;
+        scoreElement.textContent = `Score: ${score}`;
+        randomFood();
+    } else {
+        snake.pop();
+    }
+}
+
+function gameOver() {
+    gameRunning = false;
+    statusElement.textContent = `Game Over! Final Score: ${score}`;
+    statusElement.style.color = '#f85149';
+}
+
+function startGame() {
+    if (gameRunning) return;
+    
+    snake = [{x: 10, y: 10}];
+    dx = 0;
+    dy = 0;
+    score = 0;
+    gameRunning = true;
+    scoreElement.textContent = 'Score: 0';
+    statusElement.textContent = 'Use WASD or Arrow Keys to move!';
+    statusElement.style.color = '#8b949e';
+    randomFood();
+    gameLoop();
+}
+
+function resetGame() {
+    gameRunning = false;
+    snake = [{x: 10, y: 10}];
+    dx = 0;
+    dy = 0;
+    score = 0;
+    scoreElement.textContent = 'Score: 0';
+    statusElement.textContent = 'Press Start to begin!';
+    statusElement.style.color = '#8b949e';
+    drawGame();
+}
+
+function gameLoop() {
+    if (!gameRunning) return;
+    
+    moveSnake();
+    drawGame();
+    
+    setTimeout(gameLoop, 150);
+}
+
+// Controls
+document.addEventListener('keydown', (e) => {
+    if (!gameRunning) return;
+    
+    switch(e.key.toLowerCase()) {
+        case 'w':
+        case 'arrowup':
+            if (dy !== 1) { dx = 0; dy = -1; }
+            break;
+        case 's':
+        case 'arrowdown':
+            if (dy !== -1) { dx = 0; dy = 1; }
+            break;
+        case 'a':
+        case 'arrowleft':
+            if (dx !== 1) { dx = -1; dy = 0; }
+            break;
+        case 'd':
+        case 'arrowright':
+            if (dx !== -1) { dx = 1; dy = 0; }
+            break;
+    }
+});
+
+// Initialize
+randomFood();
+drawGame();
+</script>
+
+*Pro tip: Beat my high score and maybe you'll get a discount on your next commission! 😉*
+
+</div>
+
 </div>
 
 <!-- Wave separator -->
