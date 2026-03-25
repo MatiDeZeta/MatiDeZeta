@@ -10,29 +10,9 @@
 
 <br/>
 
-> *Crafting digital dreams into flawless realities — one optimized polygon at a time.*
-
----
-
-## 🎨 About Me
-
-```
-╔══════════════════════════════════════════════════════╗
-║  🧑‍💻  Name     →  Matías                              ║
-║  📍  Location  →  Buenos Aires, Argentina 🇦🇷          ║
-║  🎮  Passion   →  GTA V Modding & 3D Art              ║
-║  🔧  Craft     →  Vehicles · Maps · Visual FX         ║
-║  💡  Motto     →  Every polygon has a purpose         ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
 ## 🛠️ Tools & Tech
 
 <img src="https://skillicons.dev/icons?i=blender,ps,discord,github&theme=dark" />
-
----
 
 ## 📊 GitHub Stats
 
@@ -44,7 +24,7 @@
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=MatiDZ&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=MatiDeZeta&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 ---
 
@@ -55,10 +35,6 @@
 | 🎮 GTA5-Mods | [MatiDZ](https://www.gta5-mods.com/users/MatiDZ) |
 | 💬 Discord | [Join Server](https://discord.gg/P7BwRvCcRs) |
 | 🌍 Portfolio | [matidz.es](https://matidz.es) |
-
----
-
-<img src="https://komarev.com/ghpvc/?username=MatiDZ&color=6366f1&style=flat-square&label=Profile+Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 
