@@ -22,12 +22,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=MatiDeZeta&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
-
----
-
 ## 🌐 Find Me
 
 | Platform | Link |
